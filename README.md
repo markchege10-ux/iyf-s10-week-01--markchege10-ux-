@@ -33,5 +33,5 @@ I referred back to mdn web docs and I was able
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live webpage
-[live webpage] (https://markchege10-ux.github.io/iyf-s10-week-01--markchege10-ux-)
+[live webpage] (https://markchege10-ux.github.io/iyf-s10-week-01--markchege10-ux-/)
 
