@@ -32,5 +32,6 @@ I referred back to mdn web docs and I was able
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
 
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+## Live webpage
+[live webpage] (https://markchege10-ux.github.io/iyf-s10-week-01--markchege10-ux-)
+
